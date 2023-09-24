@@ -1,10 +1,10 @@
 <h4 align="left">Books Catalog / Book Review Full stack web application</h4>
+<div align="left">
 </div>
 
 ###
 
 <h2 align="left">🎯 About</h2>
-
 ###
 ###
 
@@ -25,10 +25,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
-
-###
-
-<h4 align="left">Then open http://localhost:3000 with your browser to see the result.<br><br>You can start editing the page by modifying app/page.js. The page auto-updates as you edit the file.<br><br>This project uses next/font to automatically optimize and load Inter, a custom Google Font.</h4>
 
 ###
 
@@ -59,12 +55,17 @@
 <h4 align="left">Run the Frontend development server:</h4>
 
 ###
-</div>
 
 <h5 align="left">npm run dev<br># or<br>yarn dev<br># or<br>pnpm dev<br># or<br>bun dev</h5>
+
+###
+
+<h4 align="left">Then open http://localhost:3000 with your browser to see the result.<br><br>You can start editing the page by modifying app/page.js. The page auto-updates as you edit the file.<br><br>This project uses next/font to automatically optimize and load Inter, a custom Google Font.</h4>
 
 ###
 
 <p align="left">The "Books Catlog Website" is a Next.js and Python-based full-stack web application designed for book enthusiasts. Its frontend features a search-enabled Book Catalog, displaying essential detail card - book title, author name, cover image, genre, and pricing for user-selected books. Clicking on a book card leads to a detailed Book Details page.<br><br>On the backend, users can Create, Read, Update, and Delete books, with options for sorting, filtering, and pagination. It also supports bulk data Import/Export. The project emphasizes data integrity, consistency. Hope You like this project</p>
 
 ###
+</div>
+</div>
