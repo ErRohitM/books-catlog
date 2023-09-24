@@ -1,4 +1,4 @@
-<h4 align="left">Books Catalog / Book Review Full stack web application</h4>
+<h3 align="left">Books Catalog Full stack web application</h3>
 <div align="left">
 </div>
 
