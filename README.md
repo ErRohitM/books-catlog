@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">Frontend Tools - Next, JS,  Redux, TailwindCss, EsLint <br>Project Tech - Python Django Framework. Django REST Framework</p>
+<p align="left">Frontend Tools - Next, JS,  Redux, TailwindCss, EsLint <br>Backend Tech - Python Django Framework. Django REST Framework</p>
 
 ###
 
