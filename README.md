@@ -62,6 +62,8 @@
 <h4 align="left">Then open http://localhost:3000 with your browser to see the result.<br><br>You can start editing the page by modifying app/page.js. The page auto-updates as you edit the file.<br><br>This project uses next/font to automatically optimize and load Inter, a custom Google Font.</h4>
 
 ###
+<h3 align="left">Short intro</h3>
+###
 
 <p align="left">The "Books Catlog Website" is a Next.js and Python-based full-stack web application designed for book enthusiasts. Its frontend features a search-enabled Book Catalog, displaying essential detail card - book title, author name, cover image, genre, and pricing for user-selected books. Clicking on a book card leads to a detailed Book Details page.<br><br>On the backend, users can Create, Read, Update, and Delete books, with options for sorting, filtering, and pagination. It also supports bulk data Import/Export. The project emphasizes data integrity, consistency. Hope You like this project</p>
 
