@@ -17,7 +17,6 @@ urlpatterns = [
     path('', include(router.urls)),
     path('list/', ListBooksViewSet.as_view(), name='list'),
     path('books-categery/', include('books.urls')),
-    path('local/', include('localapp.urls')),
     #path('books_router/', include(books_router.urls)),
     path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
     path('admin/', admin.site.urls),
